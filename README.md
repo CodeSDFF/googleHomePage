@@ -4,5 +4,7 @@
 ### Default:
  
 https://irinaserova.github.io/googleHomePage/index.html
+   ![picture](images/screenD.png)
 ### Custom google logo:
 https://irinaserova.github.io/googleHomePage/googleLogov1.html
+   ![picture](images/screenC.png)
